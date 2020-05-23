@@ -1,0 +1,20 @@
+{
+    "name": "phamcuong/hello-world",
+    "description": "This is first packages hello-world",
+    "authors": [
+        {
+            "name": "cuongpt",
+            "email": "cuongpt@9pay.vn",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.1",
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "HelloWorld": "src/"
+        }
+    }
+}
