@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Cuongpt\\HelloWorld\\": "src/"
+            "Cuongpt\\": "src/"
         }
     },
     "extra": {
